@@ -6,8 +6,8 @@
 
 The goal of this module is to examine how structures and systems cause inequality in society. The course seeks to teach students how to use data science methods and python coding to analyze inequalities present in exposure to aerial pollutants and access to energy. 
 
-| Module.       | Summary                                       | Binder Link          |Berkeley Datahub Link           |
-|---------------|-----------------------------------------------|----------------------|--------------------------------|
-| Notebook 0    | Introduction to Jupyter, Python and Pandas    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=CIVENG-190&branch=main&path=Notebook%200.ipynb) |
-| Notebook 1   | Google Street View Monitoring                 |  [![Binder](https://mybinder.org/badge.svg)]()  | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=CIVENG-190&branch=main&path=Notebook%201.ipynb)|
-| Notebook 5    | Electric Vehicle Charging                     | [![Binder](https://mybinder.org/badge.svg)]() |[![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=CIVENG-190&branch=main&path=Notebook%205.ipynb)  |
+| Module.       | Summary                                       |Berkeley Datahub Link           |
+|---------------|-----------------------------------------------|--------------------------------|
+| Notebook 0    | Introduction to Jupyter, Python and Pandas    | [![Binder](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCIVENG-190&branch=main&urlpath=tree%2FCIVENG-190%2FNotebook+0%2FNotebook+0.ipynb) |
+| Notebook 1   | Google Street View Monitoring                 | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCIVENG-190&branch=main&urlpath=tree%2FCIVENG-190%2FNotebook+1%2FNotebook+1.ipynb)|
+| Notebook 5    | Electric Vehicle Charging                     | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCIVENG-190&branch=main&urlpath=tree%2FCIVENG-190%2FNotebook+2%2FNotebook+2.ipynb)  |

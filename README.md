@@ -10,6 +10,6 @@ The goal of this module is to examine how structures and systems cause inequalit
 |---------------|-----------------------------------------------|--------------------------------|
 | Notebook 1    | Introduction to Jupyter, Python and Pandas    | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCIVENG-190&branch=main&urlpath=tree%2FCIVENG-190%2FNotebook+1%2FNB1+Intro+to+Jupyter%2C+Python%2C+and+Pandas.ipynb)|
 | Notebook 2    | Google Street View Monitoring                 | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCIVENG-190&branch=main&urlpath=tree%2FCIVENG-190%2FNotebook+2%2FNB2+Google+Street+View+Monitoring.ipynb) |
-| Notebook 3    | Electrical Vehicle Charging                   | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=&repo=localhost:8888&branch=master&path=NB3%20Electrical%20Vehicle%20Charging.ipynb) |
+| Notebook 3    | Electrical Vehicle Charging                   | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FCIVENG-190&branch=main&urlpath=retro%2Ftree%2FCIVENG-190%2FNotebook+3%2FNB3+Electrical+Vehicle+Charging.ipynb) |
 
 
